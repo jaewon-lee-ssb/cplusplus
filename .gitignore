@@ -1,0 +1,14 @@
+/.vs
+/cplusplus/x64
+/Release
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.log
+*.tlog
+*.idb
+*.suo
+*.pch
+*.dd
+*.lastbuildstate
